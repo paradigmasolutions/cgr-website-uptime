@@ -4,7 +4,7 @@
     "url": "https://www.contraloria.gov.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.contraloria.gov.co.ico",
     "slug": "cgr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 501,
     "timeYear": 725,
     "dailyMinutesDown": {
+      "2023-01-23": 0,
       "2022-11-16": 19,
       "2022-11-11": 45,
       "2022-10-02": 159
