@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.contraloria.gov.co.ico",
     "slug": "cgr",
     "status": "up",
-    "uptime": "72.21%",
+    "uptime": "72.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.41%",
-    "uptimeYear": "82.50%",
+    "uptimeYear": "82.77%",
     "time": 639,
-    "timeDay": 635,
-    "timeWeek": 554,
-    "timeMonth": 552,
+    "timeDay": 448,
+    "timeWeek": 503,
+    "timeMonth": 544,
     "timeYear": 639,
     "dailyMinutesDown": {
       "2026-02-10": 1417,
@@ -79,8 +79,7 @@
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
-      "2025-02-22": 1440,
-      "2025-02-21": 1440
+      "2025-02-22": 1440
     }
   }
 ]
