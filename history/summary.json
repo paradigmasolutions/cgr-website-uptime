@@ -6,14 +6,14 @@
     "slug": "cgr",
     "status": "down",
     "uptime": "74.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "98.63%",
+    "uptimeDay": "89.08%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "93.09%",
+    "uptimeYear": "98.60%",
     "time": 615,
-    "timeDay": 428,
-    "timeWeek": 397,
-    "timeMonth": 477,
+    "timeDay": 20,
+    "timeWeek": 414,
+    "timeMonth": 474,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2025-07-18": 1399,
@@ -24,7 +24,9 @@
       "2026-06-23": 6,
       "2026-06-22": 1429,
       "2026-06-26": 9,
-      "2026-06-25": 1427
+      "2026-06-25": 1427,
+      "2026-07-11": 154,
+      "2026-07-10": 3
     }
   }
 ]
